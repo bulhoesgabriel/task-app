@@ -1,2 +1,2 @@
 # task-app
- Task App with HTML, CSS & JS
+ <a href="https://bulhoesgabriel.github.io/task-app/">Task App</a> with HTML, CSS & JS
