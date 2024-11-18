@@ -39,23 +39,22 @@
     justify-content: space-between;
     background: #edeef0;
     border-radius: 30px;
-    padding-left: 20px;
     margin-bottom: 25px;
 }
 
 input {
-    flex: 1;
     border: none;
     outline: none;
     background: transparent;
     padding: 10px;
-    font-weight: 14px;
+    font-size: 14px;
+    margin-left: 8px;
 }
 
 button {
     border: none;
     outline: none;
-    padding: 16px 50px;
+    padding: 12px 20px;
     background: #ff5945;
     color: #fff;
     font-size: 16px;
